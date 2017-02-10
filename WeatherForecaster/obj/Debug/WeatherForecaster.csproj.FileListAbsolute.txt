@@ -1,0 +1,14 @@
+c:\users\владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\bin\Debug\WeatherForecaster.exe.config
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\bin\Debug\WeatherForecaster.exe
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\bin\Debug\WeatherForecaster.pdb
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\MainWindow.g.cs
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\App.g.cs
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster_MarkupCompile.cache
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster_MarkupCompile.lref
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\MainWindow.baml
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster.g.resources
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster.Properties.Resources.resources
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster.csproj.GenerateResource.Cache
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster.exe
+C:\Users\Владимир\documents\visual studio 2015\Projects\WeatherForecaster\WeatherForecaster\obj\Debug\WeatherForecaster.pdb
